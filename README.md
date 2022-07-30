@@ -1,0 +1,2 @@
+# otomasyon
+OTO GALERİ OTOMASYONU
